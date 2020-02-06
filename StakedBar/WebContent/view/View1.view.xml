@@ -1,0 +1,14 @@
+<mvc:View controllerName="com.numeric.StackedBar.controller.View1" xmlns:mvc="sap.ui.core.mvc" xmlns:viz="sap.viz.ui5.controls" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="Stacked Bar">
+					<content>
+						<viz:VizFrame  xmlns="sap.viz" id="idStackedChart"  vizType="stacked_column" width="100%" height="100%">
+</viz:VizFrame>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
