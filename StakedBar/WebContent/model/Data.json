@@ -2,33 +2,33 @@
 "items" : [
              {
                  "Year": "2012",
-                 "Milk": "20",
-                 "Sugar": "5",
-                 "Tea": "5"
+                 "Deveops": "20",
+                 "CPQ": "5",
+                 "Automation": "5"
              },
              {
                  "Year": "2013",
-                 "Milk": "30",
-                 "Sugar": "10",
-                 "Tea": "10"
+                 "Deveops": "30",
+                 "CPQ": "10",
+                 "Automation": "10"
              },
              {
                  "Year": "2014",
-                 "Milk": "35",
-                 "Sugar": "15",
-                 "Tea": "15"
+                 "Deveops": "35",
+                 "CPQ": "15",
+                 "Automation": "15"
              },
              {
                  "Year": "2015",
-                 "Milk": "60",
-                 "Sugar": "20",
-                 "Tea": "20"
+                 "Deveops": "60",
+                 "CPQ": "20",
+                 "Automation": "20"
              },
              {
                  "Year": "2016",
-                 "Milk": "70",
-                 "Sugar": "40",
-                 "Tea": "40"
+                 "Deveops": "70",
+                 "CPQ": "40",
+                 "Automation": "40"
              }
         ]
         }

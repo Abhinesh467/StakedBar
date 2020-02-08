@@ -20,7 +20,7 @@ sap.ui.define([
 					visible: true
 				},
 				title: {
-					text: "Stacked Bar Chart"
+					text: "Resource Analysis"
 				}
 			});
 			var oDataset = new sap.viz.ui5.data.FlattenedDataset({
@@ -30,14 +30,14 @@ sap.ui.define([
 				}],
 
 				measures: [{
-					name: "Milk",
-					value: "{Milk}"
+					name: "Deveops",
+					value: "{Deveops}"
 				}, {
-					name: "Sugar",
-					value: "{Sugar}"
+					name: "CPQ",
+					value: "{CPQ}"
 				}, {
-					name: "Tea",
-					value: "{Tea}"
+					name: "Automation",
+					value: "{Automation}"
 				}],
 
 				data: {
@@ -51,17 +51,17 @@ sap.ui.define([
 			var oFeedValueAxis = new sap.viz.ui5.controls.common.feeds.FeedItem({
 					"uid": "valueAxis",
 					"type": "Measure",
-					"values": ["Milk"]
+					"values": ["Deveops"]
 				}),
 				oFeedValueAxis1 = new sap.viz.ui5.controls.common.feeds.FeedItem({
 					"uid": "valueAxis",
 					"type": "Measure",
-					"values": ["Sugar"]
+					"values": ["CPQ"]
 				}),
 				oFeedValueAxis2 = new sap.viz.ui5.controls.common.feeds.FeedItem({
 					"uid": "valueAxis",
 					"type": "Measure",
-					"values": ["Tea"]
+					"values": ["Automation"]
 				}),
 
 oFeedCategoryAxis = new sap.viz.ui5.controls.common.feeds.FeedItem({
