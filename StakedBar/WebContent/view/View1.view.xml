@@ -4,7 +4,7 @@
 			<pages>
 				<Page id="page" title="AutoDesk POC">
 					<content>
-						<viz:VizFrame  xmlns="sap.viz" id="idStackedChart"  vizType="stacked_bar" width="100%" height="100%">
+						<viz:VizFrame  xmlns="sap.viz" id="idStackedChart"  vizType="stacked_bar" width="80%" height="80%">
 </viz:VizFrame>
 					</content>
 				</Page>
