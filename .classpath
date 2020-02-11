@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/htmlunit-2.18.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/jetty-io-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/jetty-util-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/json-20190722.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/netty-3.5.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-api-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-chrome-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-edge-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-firefox-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-htmlunit-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-ie-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-java-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-leg-rc-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-remote-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-safari-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/selenium-support-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/webbit-0.4.14.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/websocket-api-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/websocket-client-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/websocket-common-9.2.12.v20150709.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/winium-elements-desktop-0.2.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/winium-webdriver-0.1.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/SAP Automation/FIORProject/libs/freemarker-2.3.29.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

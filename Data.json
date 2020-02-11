@@ -1,0 +1,34 @@
+{
+"items" : [
+             {
+                 "Year": "2012",
+                 "Deveops": "20",
+                 "CPQ": "5",
+                 "Automation": "5"
+             },
+             {
+                 "Year": "2013",
+                 "Deveops": "30",
+                 "CPQ": "10",
+                 "Automation": "10"
+             },
+             {
+                 "Year": "2014",
+                 "Deveops": "35",
+                 "CPQ": "15",
+                 "Automation": "15"
+             },
+             {
+                 "Year": "2015",
+                 "Deveops": "60",
+                 "CPQ": "20",
+                 "Automation": "20"
+             },
+             {
+                 "Year": "2016",
+                 "Deveops": "70",
+                 "CPQ": "40",
+                 "Automation": "40"
+             }
+        ]
+        }
