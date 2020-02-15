@@ -2,7 +2,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<Page id="page" title="AutoDesk POC DEV/QUALITY">
+				<Page id="page" title="AutoDesk POC DEV/QUALITY..">
 					<content>
 						<viz:VizFrame  xmlns="sap.viz" id="idStackedChart"  vizType="stacked_column" width="100%" height="100%">
 </viz:VizFrame>
