@@ -24,7 +24,7 @@
 
 					var abapPackage = "ZFIORI";
 
-					var transportRequest = "ND5K900202";
+					var transportRequest = process.env.TR_NUM;
 
 					var jobURL = process.env.JOB_URL;
 
@@ -271,7 +271,7 @@
 
 								//             transportRequest = JSON.parse(fs.readFileSync(ctsDataFile, { encoding: "utf8" })).REQUESTID;
 
-								transportRequest = "ND5K900202";
+								//transportRequest = "ND5K900202";
 
 							}
 
